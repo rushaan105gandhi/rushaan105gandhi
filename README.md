@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushaan Gandhi</h1>
-<h3 align="center">Software development and Project management enthusiast</h3>
+<h3 align="center">Web development and Project management enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushaan105gandhi&label=Profile%20views&color=0e75b6&style=flat" alt="rushaan105gandhi" /> </p>
 
