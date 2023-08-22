@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushaan105gandhi" alt="rushaan105gandhi" /></a> </p>
 
-- 🔭 I’m currently working on [Smart Home Automation hub]([https://github.com/rushaan105gandhi/AI-Project](https://github.com/rushaan105gandhi/SmartHome-Automation-Hub)
+- 🔭 I’m currently working on [Smart Home Automation hub](https://github.com/rushaan105gandhi/SmartHome-Automation-Hub)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
