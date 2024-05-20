@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rushaan Gandhi. Welcome to my profile</h1>
-<h3 align="center">Web and Software Dev</h3>
+<h3 align="center">Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushaan105gandhi&label=Profile%20views&color=0e75b6&style=flat" alt="rushaan105gandhi" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently sharpening my placement oriented skills by working on **DSA, DBMS and OOPS**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Software Engineering and Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushaan105gandhi](https://github.com/rushaan105gandhi)
 
-- 💬 Ask me about **Data Structures, HTML, CSS, React**
+- 💬 Ask me about **Data Structures and Object Oriented Programming**
 
 - 📫 How to reach me **rushaansps@gmail.com**
 
