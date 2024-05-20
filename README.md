@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently sharpening my placement oriented skills by working on **DSA, DBMS and OOPS**
 
-- 🌱 I’m currently learning **Software Engineering and Full Stack Web Development**
+- 🌱 I’m currently learning **Rag pipeline and LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushaan105gandhi](https://github.com/rushaan105gandhi)
 
