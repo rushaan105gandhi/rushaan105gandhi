@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushaan105gandhi" alt="rushaan105gandhi" /></a> </p>
 
-- 🔭 I’m currently working on **Fog-Cloud Task Scheduling Platform**
+- 🔭 I’m currently sharpening my placement oriented skills by working on **DSA, DBMS and OOPS**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
