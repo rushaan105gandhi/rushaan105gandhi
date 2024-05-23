@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/rushaangandhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushaangandhi" height="30" width="40" /></a>
 <a href="https://instagram.com/rushaan_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushaan_22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rushaan_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rushaan_22" height="30" width="40" /></a>
-<a href="https://vista-application.web.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Vista" height="30" width="40" /></a>
+<a href="https://vista-application.web.app/" target="blank"><img align="center" src="https://vista-application.web.app/static/media/vista.6bd10d9933f49603fd62.png" alt="Vista" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
